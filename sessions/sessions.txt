@@ -1,0 +1,1 @@
+O próprio site trabalha com sesions... Vou deixar o repositorio dele aqui como exeomplo

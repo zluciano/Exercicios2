@@ -1,0 +1,8 @@
+O padrão de ponte foi utilizado para manter o mesmo layout nas páginas do projeto do site
+
+O padrão decorador foi utilizado para impedir que páginas de aceso restrito fossem visitadas sem antes fazer o login
+
+O padrão de compótiso foi implementado nas funções de adicionar e remover séries de uma lista de séries individual
+
+
+Vou deixar o repositório do projeto aqui também

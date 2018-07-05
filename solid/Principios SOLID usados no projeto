@@ -1,0 +1,7 @@
+No nosso projeto implementamos classes com o principio closed responsability, open/closed e Liskov, como é o exemplo das classes de botões de redirecionamento:
+
+open/closed:  só é possível usar as classes e não modificá-las
+
+closed responsability:  as suas funções se restringem a dar informações sobre o seu tipo específico de botão
+
+Liskov:  cada classe determina, entre outras coisas, a cor do botão, ou seja, as subclasses apenas aumentam as funcionalidades
